@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\bin\Debug\netcoreapp2.1\ConsolePoupança.deps.json
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\bin\Debug\netcoreapp2.1\ConsolePoupança.runtimeconfig.json
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\bin\Debug\netcoreapp2.1\ConsolePoupança.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\bin\Debug\netcoreapp2.1\ConsolePoupança.dll
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\bin\Debug\netcoreapp2.1\ConsolePoupança.pdb
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.dll
+C:\Users\HP\source\repos\ConsolePoupança\ConsolePoupança\obj\Debug\netcoreapp2.1\ConsolePoupança.pdb
